@@ -1,3 +1,3 @@
-activate env: env\Scripts\activate.bat
+activate env: venv\Scripts\activate
 
 how to run: streamlit run stocksDashboard.py
